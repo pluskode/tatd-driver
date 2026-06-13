@@ -115,20 +115,14 @@ Ensure you have the following installed on your machine:
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
-   cd my-expo-app
+   git clone https://github.com/pluskode/tatd-driver.git
+   cd tatd-driver
    ```
 
 2. **Install dependencies**:
    ```bash
    npm install
    ```
-
-3. **Install platform specific/peer dependencies (if missing)**:
-   ```bash
-   npx expo install @expo/vector-icons
-   ```
-
 ---
 
 ## 🏃 Running the App
