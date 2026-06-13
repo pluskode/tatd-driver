@@ -64,7 +64,7 @@ A premium, native React Native driver application built with **Expo (SDK 54)** a
 ## 📁 Project Structure
 
 ```text
-my-expo-app/
+tatd-driver/
 ├── assets/                  # App images, icons, and splash screens
 ├── src/
 │   ├── App.jsx              # App root component setting up Providers & navigation
